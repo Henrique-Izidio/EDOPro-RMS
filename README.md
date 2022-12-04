@@ -20,7 +20,7 @@ Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDO
 Caso encontre algum BUG nos efeitos das cartas favor usar a aba **ISSUES** para reporta-lo o mesmo vale para erros no PSCT, falhas na interação entre card, etc. É preferivel que isso seja feito com o maximo de detalhes.
 
 ## CREDITOS
-Nem todos as custom cards sãode minha autoria elas foram postadas no servidor do discord dos YouTubers [Ritual Master][rm] e [MarqShadow][ms], eu apenas as codifiquei para o EDOPro, os NickNames daqueles que postaram as custom card estão contidos nas artes das cartas, ressaltando que este era o nome usado por eles no Discord no momento em que eu codifiquei a carta
+Nem todos as custom cards são de minha autoria elas foram postadas no servidor do discord dos YouTubers [Ritual Master][rm] e [MarqShadow][ms], eu apenas as codifiquei para o EDOPro, os NickNames daqueles que postaram as custom card estão contidos nas artes das cartas, ressaltando que este era o nome usado por eles no Discord no momento em que eu codifiquei a carta
 
 ## CARDS ADICIONADOS
 
