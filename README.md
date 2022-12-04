@@ -37,6 +37,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
  - Little Witch  
  
 [df2]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
-[img1]: <https://drive.google.com/file/d/1URqhyZvOJxnxqNZcSB5bPu0GsoBrARD5>
+[img1]: <https://drive.google.com/uc?id=1URqhyZvOJxnxqNZcSB5bPu0GsoBrARD5>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
