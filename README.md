@@ -2,8 +2,9 @@
 
 ## Adicionar ao seu EDOPro
 - Baixe o arquivo [user_configs.json][df1]
-- Mova-o para a pasta ***ProjectIgnis\config***
+- Mova-o para a pasta ***ProjectIgnis\configs***
 - Abra o EDOPro e espere os arquivos serem baixados
+- Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a pasta ***ProjectIgnis*** talvez seja nomeada como **EDOPRO**
 
 ## Usar as cartas em seus Decks
 Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDOPro e, portanto, não aparecem por padrão no seu catalogo de cards, para usa-las você deve ativar a opção **alternative formats** contida na parte de edição de Deck com isso será possivel encontra-las
