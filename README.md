@@ -3,7 +3,8 @@
 ## Instalação da expanção
 
 ## EDOPRO - PC
-1. Clicque [aqui] para baixar o arquivo [user_configs.json][df1]
+1. Clicque [aqui][df1] para baixar o arquivo [user_configs.json][df1]
+![]()
 - Mova-o para a pasta ***ProjectIgnis\configs***
 - Abra o EDOPro e espere os arquivos serem baixados
 - Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a pasta ***ProjectIgnis*** talvez seja nomeada como **EDOPRO**
@@ -35,7 +36,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch
-
-[df1]: <https://drive.google.com/file/d/1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh/view?usp=share_link>
+[df1]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
