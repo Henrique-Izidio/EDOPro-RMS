@@ -30,7 +30,7 @@ Nem todos as custom cards sãode minha autoria elas foram postadas no servidor d
   - Psy-Frame
   - Magikey
   
-### ARQUETIPOS ADIONADOS
+### ARQUETIPOS ADICIONADOS
  - Little Witch
 
 [df1]: <https://drive.google.com/file/d/1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh/view?usp=share_link>
