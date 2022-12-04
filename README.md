@@ -11,9 +11,9 @@ Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDO
 ## Uso em partidas 
 É possivel usar as cartas custom em partidas no modo **LAN + IA** e no modo online, em qualquer servidor do EDOPro, no entanto para isso é preciso estar atento a algumas coisa:
 
- 1- Ambos os jogadores precisão ter instalado em seus jogos a expanção /n
- 2- No momento da criação do host de um duelo é preciso fazer algumas alterações nas configurações de duelo, está alterar a opção **Allowed Cards** para **Anything Goes**/n
- 3- Caso o jogo ainda te impeça de criar uma partida marque a opção **Don't check Deck Contents** como ativa/n
+ 1- Ambos os jogadores precisão ter instalado em seus jogos a expanção \n
+ 2- No momento da criação do host de um duelo é preciso fazer algumas alterações nas configurações de duelo, está alterar a opção **Allowed Cards** para **Anything Goes** \n
+ 3- Caso o jogo ainda te impeça de criar uma partida marque a opção **Don't check Deck Contents** como ativa \n
  4- Cartas custom podem ser usadas com **qualquer banlist**, não é nescessario preocupação do EDOPro trata-las como banidas por elas não serem oficiais
  
 ## BUGS
