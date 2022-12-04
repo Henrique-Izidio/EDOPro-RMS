@@ -9,6 +9,7 @@ Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a 
 
 ## Usar as cartas em seus Decks
 Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDOPro e, portanto, não aparecem por padrão no seu catalogo de cards, para usa-las você deve ativar a opção **alternative formats** contida na parte de edição de Deck com isso será possivel encontra-las
+![imagem-1][img1]
 
 ## Uso em partidas 
 É possivel usar as cartas custom em partidas no modo **LAN + IA** e no modo online, em qualquer servidor do EDOPro, no entanto para isso é preciso estar atento a algumas coisa:
@@ -36,5 +37,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
  - Little Witch  
  
 [df2]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
+[img1]: <https://drive.google.com/file/d/1URqhyZvOJxnxqNZcSB5bPu0GsoBrARD5/view?usp=sharing>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
