@@ -1,4 +1,4 @@
-# RMS - Custom Card To EDOPro
+# RMS - Custom Cards para EDOPro
 
 ## Adicionar ao seu EDOPro
 - Baixe o arquivo [user_configs.json][df1]
