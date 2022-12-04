@@ -8,14 +8,16 @@ Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a 
 3. Abra o EDOPro e espere os arquivos serem baixados
 
 ## Usar as cartas em seus Decks
-Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDOPro e, portanto, não aparecem por padrão no seu catalogo de cards, para usa-las você deve ativar a opção **alternative formats** contida na parte de edição de Deck com isso será possivel encontra-las
+Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDOPro e, portanto, não aparecem por padrão no seu catalogo de cards, para usa-las você deve ativar a opção **alternative formats** contida na parte de edição de Deck com isso será possivel encontra-las  
+  
 ![imagem-1][img1]
 
 ## Uso em partidas 
-É possivel usar as cartas custom em partidas no modo **LAN + IA** e no modo online, em qualquer servidor do EDOPro, no entanto para isso é preciso estar atento a algumas coisa:
+É possivel usar as cartas custom em partidas no modo **LAN + IA** e no modo **online**, em qualquer servidor do EDOPro, no entanto para isso é preciso estar atento a algumas coisa:
 
  1- Ambos os jogadores precisão ter instalado em seus jogos a expanção  
- 2- No momento da criação do host de um duelo é preciso fazer algumas alterações nas configurações de duelo, está alterar a opção **Allowed Cards** para **Anything Goes**  
+ 2- No momento da criação do host de um duelo é preciso fazer algumas alterações nas configurações de duelo, em especial alterar a opção **Allowed Cards** para **Anything Goes**  
+ ![imagem-2][img2]
  3- Caso o jogo ainda te impeça de criar uma partida marque a opção **Don't check Deck Contents** como ativa  
  4- Cartas custom podem ser usadas com **qualquer banlist**, não é nescessario preocupação do EDOPro trata-las como banidas por elas não serem oficiais
  
@@ -38,5 +40,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
  
 [df2]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
 [img1]: <https://drive.google.com/uc?id=1YOfTstdxyq3vQdSFarTXJXHKCP-loCB3>
+[img2]: <https://drive.google.com/uc?id=1k8niTLgeC9061y9qzrFOs5aoLI4MqGp7>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
