@@ -17,8 +17,8 @@ Todas as cartas custom que estão aqui estão marcadas com o tag *custom* do EDO
 
  1- Ambos os jogadores precisão ter instalado em seus jogos a expanção  
  2- No momento da criação do host de um duelo é preciso fazer algumas alterações nas configurações de duelo, em especial alterar a opção **Allowed Cards** para **Anything Goes**  
- ![imagem-2][img2]
- 3- Caso o jogo ainda te impeça de criar uma partida marque a opção **Don't check Deck Contents** como ativa  
+ ![imagem-2][img2]  
+ 3- Caso o jogo ainda te impeça de criar uma partida marque a opção **Don't check Deck Contents** como ativa 
  4- Cartas custom podem ser usadas com **qualquer banlist**, não é nescessario preocupação do EDOPro trata-las como banidas por elas não serem oficiais
  
 ## BUGS
