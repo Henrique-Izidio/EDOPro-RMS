@@ -36,6 +36,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch
-[df1]: <https://drive.google.com/file/d/1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh/view>
+[df1]: <https://drive.google.com/file/d/1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh/view?usp=sharing>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
