@@ -3,7 +3,7 @@
 ## Instalação da expanção
 
 ## EDOPRO - PC
-1- Baixe o arquivo [user_configs.json][df1]
+1. Clicque [aqui] para baixar o arquivo [user_configs.json][df1]
 - Mova-o para a pasta ***ProjectIgnis\configs***
 - Abra o EDOPro e espere os arquivos serem baixados
 - Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a pasta ***ProjectIgnis*** talvez seja nomeada como **EDOPRO**
