@@ -1,8 +1,9 @@
 -- Manipulated Magikey Lemega
 local s, id = GetID()
 local sc = 0x167 -- archtype code
+local magikeyWorld = 35815783
 s.listed_series = { sc }
-s.listed_series = { id }
+s.listed_names = { id, magikeyWorld }
 
 function s.initial_effect(c)
 	--must first link summoned
@@ -54,7 +55,7 @@ end
 
 --magikey world's filter
 function s.e1CardFilter(c)
-	return c:IsCode(35815783) and c:IsAbleToHand()
+	return c:IsCode(magikeyWorld) and c:IsAbleToHand()
 end
 
 --target

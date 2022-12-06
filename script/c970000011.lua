@@ -4,7 +4,6 @@ local sc = "0xb001"
 local zira = 970000008
 local zeleena = 970000009
 s.listed_names = { zira, zeleena }
-s.listed_series = { sc }
 function s.initial_effect(c)
   local ritparams = {
     handler = c,
@@ -49,7 +48,7 @@ end
 --negate
 function s.negcon(e, tp, eg, ep, ev, re, r, rp)
   return re:IsActiveType(TYPE_SPELL)
-      and re:IsActiveType(TYPE_CONTINUOUS)
+      and re:IsActiveType(TYPE_FIELD)
       and Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsType, TYPE_RITUAL),
         e:GetHandlerPlayer(),
         LOCATION_ONFIELD,

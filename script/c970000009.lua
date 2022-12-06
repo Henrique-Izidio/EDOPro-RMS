@@ -1,5 +1,8 @@
 -- Fabulous Little Witch Zeleena
 local s, id = GetID()
+local sc = "0xb001"
+s.listed_series = { sc }
+s.listed_names = { id}
 function s.initial_effect(c)
   c:EnableReviveLimit()
   -- effects

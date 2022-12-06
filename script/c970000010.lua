@@ -4,7 +4,6 @@ local sc = "0xb001"
 local zira = 970000008
 local zeleena = 970000009
 s.listed_names = { zira, zeleena }
-s.listed_series = { sc }
 function s.initial_effect(c)
   local ritparams = {
     handler = c,
