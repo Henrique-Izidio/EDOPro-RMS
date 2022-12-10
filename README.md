@@ -5,6 +5,7 @@ Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a 
 
 1. Clicque [aqui][df2] para baixar o arquivo [user_configs.json][df2]
 2. Após finalizar o download mova-o para a pasta ***ProjectIgnis\configs***
+![imagem][img3]
 3. Abra o EDOPro e espere os arquivos serem baixados
 
 ## Usar as cartas em seus Decks
@@ -41,5 +42,6 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
 [df2]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
 [img1]: <https://drive.google.com/uc?id=1YOfTstdxyq3vQdSFarTXJXHKCP-loCB3>
 [img2]: <https://drive.google.com/uc?id=1k8niTLgeC9061y9qzrFOs5aoLI4MqGp7>
+[img3]:<https://drive.google.com/uc?id=14Nr2S-IfnQydS5SmqCLhI2PS2N-KnH8E>
 [rm]: <https://www.youtube.com/@RitualMaster>
 [ms]: <https://www.youtube.com/@MarqShadowBR>
