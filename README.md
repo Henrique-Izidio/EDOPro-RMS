@@ -4,7 +4,7 @@
 Este metodo funciona para o EDOPro tanto de PC quanto Mobile, porem no mobile a pasta ***ProjectIgnis*** talvez seja nomeada como ***EDOPRO***
 
 1. Clicque [aqui][df2] para baixar o arquivo [user_configs.json][df2]
-2. Após finalizar o download mova-o para a pasta ***ProjectIgnis\configs***
+2. Após finalizar o download mova-o para a pasta ***ProjectIgnis\configs***  
 ![imagem][img3]
 3. Abra o EDOPro e espere os arquivos serem baixados
 
