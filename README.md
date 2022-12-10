@@ -40,6 +40,14 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
 ### ARQUETIPOS ADICIONADOS
  - Little Witch  
  
+ ## CONFLITOS COM OUTROS CUSTOM SETS
+ É possivel que os Custom Card aqui presente entrem em conflito com outros Custom Sets nos seguintes casos:
+ ### Conflito entre os ID das cartas
+ As cartas deste repositorio são criadas usando um ID de 9 digitos numericos iniciados com 970. Para evitar conflitos tente não adicionar esta expação em conjunto com outras que utulisem o mesmo intervalo de IDs.
+ 
+ ### Conflito entre ID dos arquetipos custom
+ Os arquetipos Custom deste repositorio são criados usando IDs de 6 digitos alfa-numericos iniciados com 0xb. Para evitar conflitos tente não adicionar esta expação em conjunto com outras que utulisem o mesmo intervalo de IDs.
+ 
 [df2]: <https://docs.google.com/uc?export=download&id=1fxlMTVfdjtR6EZn51hECSwp4Vv_yIXQh>
 [img1]: <https://drive.google.com/uc?id=1YOfTstdxyq3vQdSFarTXJXHKCP-loCB3>
 [img2]: <https://drive.google.com/uc?id=1k8niTLgeC9061y9qzrFOs5aoLI4MqGp7>
