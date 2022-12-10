@@ -35,6 +35,7 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   - Libromancer
   - Psy-Frame
   - Magikey
+  - Cyber Angel
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch  
