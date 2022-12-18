@@ -36,6 +36,7 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   - Psy-Frame
   - Magikey
   - Cyber Angel
+  - Rikka
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch  
