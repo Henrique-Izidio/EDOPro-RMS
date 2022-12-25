@@ -37,6 +37,7 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   - Magikey
   - Cyber Angel
   - Rikka
+  - Traptrix
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch  
