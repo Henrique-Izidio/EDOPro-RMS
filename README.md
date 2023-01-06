@@ -41,6 +41,9 @@ Nem todos as custom cards são de minha autoria elas foram postadas no servidor 
   
 ### ARQUETIPOS ADICIONADOS
  - Little Witch  
+
+### CARTAS GENERICAS
+ - Icy Empress Zerofrost
  
  ## CONFLITOS COM OUTROS CUSTOM SETS
  É possivel que os Custom Card aqui presente entrem em conflito com outros Custom Sets nos seguintes casos:
